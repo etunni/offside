@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="683"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component  base="D"/>
+    <component  base="hyphen" yOffset="45"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="70" />
+      <hstem pos="289" width="70" />
+      <hstem pos="670" width="70" />
+      <vstem pos="110" width="80" />
+      <vstem pos="493" width="80" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
